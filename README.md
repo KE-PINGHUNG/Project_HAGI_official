@@ -2,7 +2,7 @@
 
 本專案使用 **HTML5、CSS、Bootstrap、javascript、PHP、mariaDB資料庫** 進行HAGI官方網站之專題製作。
 
-**youtube網站展演連結**
+**網站展演youtube連結**
 https://youtu.be/EQgeaFk-eW8 
 
 ## 安裝 Installation 
